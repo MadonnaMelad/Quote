@@ -1,0 +1,28 @@
+body{
+    background-color: #EFE4D6;
+    /* font-family: "Bebas Neue", sans-serif; */
+    font-size: 30px;
+    color: #001F3F;
+    span{
+        font-family: "Luckiest Guy", cursive;
+        font-size: 70px;
+
+    }
+    h1{
+        font-family: "Merienda", cursive;
+        color: #3A6D8C;
+    }
+    button{
+        background-color: #e9bf87;
+        border: 3px solid #e9bf87;
+        font-size:20px;
+        color: #594425;
+        transition: all .5s;
+    }
+    button:hover{
+        background-color: #f0b362 ;
+        border: 3px solid #f0b362;
+
+    }
+    
+}
